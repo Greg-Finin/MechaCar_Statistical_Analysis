@@ -14,3 +14,6 @@ LOT 2
 ![Lot2](Lot2.png)
 LOT 3
 ![Lot3](Lot3.png)
+
+## Study Design: MechaCar vs Competition
+To compare the MechaCar against the compeition, we would focus on three key metrics, MPG, Horespower, and safety rating. In order to ddo this we would take all avaialble data for each vehicle andd run a series of statistical tests. In order to see which vehicle was stronger in each category, we would run a one tailed t-test between a sample of the mechacar and the competition against the population of cars on the road. Our null hypothesis would be that the mechacar is the same or worse than the competition in each category. 
